@@ -50,6 +50,5 @@ Hello, world
 I am ready for CS16!
 [d_chang@csil-06 lab00]$ vim hello.cpp
 [d_chang@csil-06 lab00]$ ./hello
-Hello, world
+Hello, world!
 I am ready for CS16!
-[d_chang@csil-06 lab00]$ 
